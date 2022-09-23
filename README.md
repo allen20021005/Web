@@ -4,5 +4,7 @@
 * 系級：科技系114級  
 
 * ## 課程筆記區  
-* ## 作業連結區  
+    [Markdown 語法](https://markdown.tw/)
+* ## 作業連結區
+    Week2 [個人靜態網站](https://allen20021005.github.io/Web/mypage/)架設
 * ## 專題連結區
