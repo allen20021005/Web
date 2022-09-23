@@ -4,7 +4,7 @@
 * 系級：科技系114級  
 
 * ## 課程筆記區  
-    ><font color=red size=6>Week1</font>\
+    ***Week1***\
     [Markdown 語法](https://markdown.tw/)\
     Week2\
     [html Tutorial](https://www.w3schools.com/html/default.asp)
