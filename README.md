@@ -5,8 +5,8 @@
 
 * ## 課程筆記區  
     >Week1\
-    [Markdown 語法](https://markdown.tw/)
-    Week2
+    [Markdown 語法](https://markdown.tw/)\
+    Week2\
     [html Tutorial](https://www.w3schools.com/html/default.asp)
 * ## 作業連結區
     Week2  
