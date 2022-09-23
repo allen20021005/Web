@@ -9,6 +9,6 @@
     ***Week2***\
     [html Tutorial](https://www.w3schools.com/html/default.asp)
 * ## 作業連結區
-    Week2  
+    ***Week2***  
     [個人靜態網站](https://allen20021005.github.io/Web/mypage/)架設
 * ## 專題連結區
