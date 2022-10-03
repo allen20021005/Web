@@ -11,4 +11,5 @@
 * ## 作業連結區
     ***Week2***  
     [個人靜態網站](https://allen20021005.github.io/Web/mypage/)架設
+    [作業一](https://youtu.be/ke0Qz0WtHYM)
 * ## 專題連結區
